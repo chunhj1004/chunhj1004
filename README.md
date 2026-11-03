@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello world! 👋
+
+
+I'm a high school student from South Korea.
+
+
+Learning to code with AI.
 
 <!--
 **chunhj1004/chunhj1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
